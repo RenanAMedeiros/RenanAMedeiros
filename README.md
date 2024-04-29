@@ -19,9 +19,9 @@
 
 <p align="center">
  <a href="https://github.com/el-gontijo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=EL-GONTIJO&show_icons=true&theme=merko" width="49%" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=RenanAMedeiros&show_icons=true&theme=merko" width="49%" height="195">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-GONTIJO&layout=donut&theme=dark" width="35%" height="195">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAMedeiros&layout=donut&theme=dark" width="35%" height="195">
   </a>
 </p>
 
