@@ -5,6 +5,8 @@
  <p>
  </p>
 
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 <p align="center">
  Desenvolvedor Inicialmente no ano  2022 com mais foco e desafios focados na minha área . 
  </p>
