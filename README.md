@@ -8,7 +8,10 @@
 <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
- Desenvolvedor Inicialmente no ano  2022 com mais foco e desafios focados na minha área . 
+ Desenvolvedor Inicialmente no ano  2022  . 
+ </p>
+ <p align="left">
+ Buscando uma novos desafios envolvendo a programação. 
  </p>
  <p align="left">
  Analista de Sistemas e Tech Lead na TREO Tecnologia. 
