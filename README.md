@@ -11,7 +11,7 @@
  Desenvolvedor Inicialmente no ano  2022  . 
  </p>
  <p align="left">
- Buscando uma novos desafios envolvendo a programação. 
+ Buscando  novos desafios envolvendo a programação. 
  </p>
  <p align="left">
  Analista de Sistemas e Tech Lead na TREO Tecnologia. 
